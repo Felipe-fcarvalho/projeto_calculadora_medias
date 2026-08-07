@@ -1,6 +1,8 @@
-# Ebac | Projeto 2 - Calculadora de médias
+# Ebac FullStack Designer 
 
-## Detalhes do projeto:
+## Projeto prático referente ao módulo 8 de Front-end
+
+### Detalhes do projeto:
 
 - estruturar uma tabela HTML com colunas;
 - aplicar estilização básica nos principais campos;
